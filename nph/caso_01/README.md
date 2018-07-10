@@ -29,4 +29,4 @@ Terreno con dos usos A y B. Cuatro polígonos dentro del terreno. Tres polígono
 
 (Diagrama de tablas)
 
-(Enlace al XTF)
+[Datos en formato de transferencia de INTERLIS (XTF)](https://raw.githubusercontent.com/AgenciaImplementacion/condiciones_predios/master/nph/caso_01/nph_caso_01.xtf)
