@@ -1,6 +1,6 @@
 # Descripción del caso
 
-![Caso mejora]()
+![Caso mejora](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/mejora/mejora-Caso.png)
 
 Una construcción realizada en un terreno ajeno, eso quiere decir que el dueño de la construcción no es el mismo dueño del terreno.
 
@@ -8,7 +8,7 @@ Una construcción realizada en un terreno ajeno, eso quiere decir que el dueño 
 
 Para representar este caso de acuerdo a LADM se necesitarán de las siguientes tablas del modelo (v 2.2.1)
 
-![Diagrama Entidad Relación simplificado]()
+![Diagrama Entidad Relación simplificado](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/mejora/mejora-ER.png)
 
 # Flujo de almacenamiento
 
@@ -37,4 +37,4 @@ Para este caso se deben crear registros para dos predios, uno que tiene un inter
 
 # Productos
 
-![Esquema de tablas]()
+![Esquema de tablas](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/mejora/mejora-Tablas.png)
