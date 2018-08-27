@@ -1,6 +1,6 @@
 # Descripción del caso
 
-![Caso 01](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/nph/caso_01/NPH%20Caso%2001.png)
+![Caso 01](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/lote/lote-Caso.png)
 
 Un lote de terreno.
 
@@ -8,7 +8,7 @@ Un lote de terreno.
 
 Para representar este caso de acuerdo a LADM se necesitarán de las siguientes tablas del modelo (v 2.2.1)
 
-![Diagrama Entidad Relación simplificado](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/nph/caso_01/NPH%20Caso%2001-ER.png)
+![Diagrama Entidad Relación simplificado](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/lote/lote-ER.png)
 
 # Flujo de almacenamiento
 
@@ -23,5 +23,5 @@ Para representar este caso de acuerdo a LADM se necesitarán de las siguientes t
 
 # Productos
 
-![Esquema de tablas](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/nph/caso_01/NPH%20Caso%2001-Tablas.png)
+![Esquema de tablas](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/lote/lote-Tablas.png)
 
