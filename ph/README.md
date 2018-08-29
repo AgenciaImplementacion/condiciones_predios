@@ -1,6 +1,6 @@
 # Descripción del caso
 
-![Caso PH]()
+![Caso PH](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/ph/ph-Caso.png)
 
 Terreno con un predio P.H. que tiene dos construcciones.
 La primera construcción es una torre residencial de 3 pisos y cada piso tiene un apartamento, la segunda es un salón comunal que pertenece al P.H.
@@ -9,7 +9,7 @@ La primera construcción es una torre residencial de 3 pisos y cada piso tiene u
 
 Para representar este caso de acuerdo a LADM se necesitarán de las siguientes tablas del modelo (v 2.2.1)
 
-![Diagrama Entidad Relación simplificado](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/nph/NPH-ER.png)
+![Diagrama Entidad Relación simplificado](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/ph/ph-ER.png)
 
 # Flujo de almacenamiento
 
@@ -30,4 +30,4 @@ Para representar este caso de acuerdo a LADM se necesitarán de las siguientes t
 
 # Productos
 
-![Esquema de tablas](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/nph/NPH-Tablas.png)
+![Esquema de tablas](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/ph/ph-Tablas.png)
