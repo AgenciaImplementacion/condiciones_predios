@@ -1,9 +1,19 @@
-# CONTENIDO
+# Descripción del caso
 
-1. Caso 01: (enlace al caso 01)
-   
-   (descripción)
+![Caso Condominio](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/condominio/condominio-Caso.png)
 
-2. Caso 02: 
+Un condominio que consta de una piscina y cuatro unidades privadas
 
-   (descripción)
+# Representación LADM
+
+Para representar este caso de acuerdo a LADM se necesitarán de las siguientes tablas del modelo (v 2.2.1)
+
+![Diagrama Entidad Relación simplificado](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/condominio/condominio-ER.png)
+
+# Flujo de almacenamiento
+
+
+# Productos
+
+![Esquema de tablas](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/condominio/condominio-Tablas.png)
+
