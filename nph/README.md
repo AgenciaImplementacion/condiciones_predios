@@ -16,7 +16,7 @@ Para representar este caso de acuerdo a LADM se necesitarán de las siguientes t
 # Flujo de almacenamiento
 
 1. **Llenar tabla Terreno**: En esta tabla se agregan los datos relacionados con la representación espacial, tales como el área y la geometría, del polígono de terreno (verde)
-2. **Llenar tabla Predio**: En esta tabla se agregan datos alfanuméricos del predio, tales como el Número Predial, FMI, etc.
+2. **Llenar tabla Predio**: En esta tabla se agregan datos alfanuméricos del predio, tales como el Número Predial, FMI, etc; eligiendo como Tipo el valor "NPH".
 3. **Llenar relación UEBAUnit vinculando Terreno con Predio**
 4. **Llenar tabla Construccion**: Para el caso se agregan datos de 4 construcciones, una por cada polígono. 
 5. **Llenar relación UEBAUnit, vinculando Construcción con Predio**
