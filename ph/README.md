@@ -3,7 +3,7 @@
 ![Caso PH](https://github.com/AgenciaImplementacion/condiciones_predios/blob/master/ph/ph-Caso.png?raw=true)
 
 Terreno con un predio P.H. que tiene dos construcciones.
-La primera construcción es una torre residencial de 3 pisos y cada piso tiene un apartamento, la segunda es un salón comunal que pertenece al P.H.
+La primera construcción es una torre residencial de 2 pisos y cada piso tiene un apartamento, la segunda es un salón comunal que pertenece al P.H.
 
 # Representación LADM
 
